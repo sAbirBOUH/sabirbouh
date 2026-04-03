@@ -5,7 +5,7 @@
 ### Développeur passionné par la Data, l'IA & le Machine Learning
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ton-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sabir-bouhssine-0ba68b131)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
 
 </div>
@@ -86,7 +86,7 @@ Analyse automatique d'images médicales (CT, IRM, Radio) avec des modèles de de
 
 ---
 
-## Objectifs 2025 🎯
+## Objectifs 2026 🎯
 
 - [ ] Compléter et déployer **AtlasRad**
 - [ ] Publier **3 projets Data/IA** documentés
