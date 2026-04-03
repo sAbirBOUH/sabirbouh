@@ -2,7 +2,7 @@
 
 # Salut, moi c'est Sabir Bouhssine 👋
 
-### Développeur passionné par la Data, l'IA & le Machine Learning
+### technicien on radiologie medicale et Développeur passionné par la Data, l'IA & le Machine Learning
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ton-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabir-bouhssine-0ba68b131/)
