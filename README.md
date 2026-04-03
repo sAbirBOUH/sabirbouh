@@ -20,7 +20,7 @@ Je suis un développeur en apprentissage, passionné par l'intelligence artifici
 - 🌱 En apprentissage : **Machine Learning**, **Deep Learning**, **Data Visualization**
 - 💡 Intéressé par : IA médicale, NLP, Computer Vision
 - 📍 Basé au **Maroc**
-- 📫 Me contacter : **ton@email.com**
+- 📫 Me contacter : **sabir.bouhs1@gmail.com**
 
 ---
 
